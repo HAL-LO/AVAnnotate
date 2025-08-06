@@ -1,0 +1,39 @@
+{
+  "audiovisual_files": {
+    "471dccac-6cdd-49ce-99e8-93a20ff61412": {
+      "label": "",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL?si=e43fa1468b9842ad",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "cc66a662-0740-42fc-9226-6138b90268bf": {
+      "label": "",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=CaCSuzR4DwM",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Playlist 1",
+  "created_at": "2025-08-06T17:13:41.145Z",
+  "created_by": "HAL-LO",
+  "updated_at": "2025-08-06T17:13:41.145Z",
+  "updated_by": "HAL-LO"
+}

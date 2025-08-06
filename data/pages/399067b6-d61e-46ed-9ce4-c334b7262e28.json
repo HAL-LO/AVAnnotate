@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-08-06T17:13:41.358Z",
+  "created_by": "HAL-LO",
+  "title": "Playlist 1",
+  "slug": "playlist-1",
+  "updated_at": "2025-08-06T17:13:41.358Z",
+  "updated_by": "HAL-LO",
+  "parent": "51b2b48c-0048-4035-9566-00059821211a",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "746929cd-2c85-4b6c-9d5b-f6197b87ebc4"
+  }
+}
